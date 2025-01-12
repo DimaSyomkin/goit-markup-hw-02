@@ -213,7 +213,7 @@ ul {
 
     font-weight: 700;
     font-size: 36px;
-    text-transform: capitalize;
+
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
@@ -230,7 +230,7 @@ ul {
 
     font-weight: 500;
     font-size: 20px;
-
+    text-transform: capitalize;
     line-height: 1.2;
     letter-spacing: 0.02em;
 
@@ -241,7 +241,7 @@ ul {
 
     font-weight: 400;
     font-size: 16px;
-
+    text-transform: capitalize;
     line-height: 1.5;
     letter-spacing: 0.02em;
 
