@@ -142,6 +142,10 @@ ul {
     color: #404bbf;
 }
 
+.adress-link:focus {
+    color: #404bbf;
+}
+
 .tell {
 
     font-weight: 400;
