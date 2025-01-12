@@ -85,25 +85,16 @@ ul {
 }
 
 .nav-link {
-
-
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.nav-link:hover {
 
-
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #404bbf;
-}
-
+.nav-link:hover,
 .nav-link:active {
-    color: #404bbf
+    color: #404bbf;
 }
 
 .nav-link:focus {
