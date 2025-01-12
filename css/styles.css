@@ -159,6 +159,10 @@ ul {
     font-style: normal;
 }
 
+.adress:focus {
+    color: #404bbf
+}
+
 /*------------Main Screen--------------*/
 .main {
     background: #2e2f42;
