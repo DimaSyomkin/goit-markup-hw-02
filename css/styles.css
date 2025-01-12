@@ -93,6 +93,10 @@ ul {
     color: #404bbf;
 }
 
+.nav-link:active {
+    color: #404bbf
+}
+
 .adress-list {}
 
 .mail {
