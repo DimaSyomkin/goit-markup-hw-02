@@ -213,7 +213,7 @@ ul {
 
     font-weight: 700;
     font-size: 36px;
-
+    text-transform: capitalize;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
@@ -250,7 +250,7 @@ ul {
 
 /*------------Portfolio--------------*/
 .portfolio-title {
-
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
 
