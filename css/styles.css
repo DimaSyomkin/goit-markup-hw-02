@@ -46,9 +46,6 @@ ul {
     color: #2e2f42;
 }
 
-.nav-studio:active {
-    color: #404bbf
-}
 
 .nav-studio:hover,
 .nav-studio:focus {
@@ -82,10 +79,6 @@ ul {
 
 
 .nav-link:hover,
-.nav-link:active {
-    color: #404bbf;
-}
-
 .nav-link:focus {
     color: #404bbf;
 }
@@ -113,15 +106,7 @@ ul {
     color: #434455;
 }
 
-.adress-link:hover {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #404bbf;
-}
-
+.adress-link:hover,
 .adress-link:focus {
     color: #404bbf;
 }
@@ -140,7 +125,8 @@ ul {
     font-style: normal;
 }
 
-.adress:focus {
+.adress:focus,
+.adress:hover {
     color: #404bbf
 }
 
@@ -170,17 +156,12 @@ ul {
     cursor: pointer;
 }
 
-.main-butt:hover {
-    background-color: #404BBF;
-}
-
+.main-butt:hover,
+.main-butt:focus,
 .main-butt:active {
     background-color: #404BBF;
 }
 
-.main-butt:focus {
-    background-color: #404BBF;
-}
 
 /*------------Features--------------*/
 .feature-title {
