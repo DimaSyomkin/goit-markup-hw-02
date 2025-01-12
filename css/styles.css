@@ -155,6 +155,10 @@ ul {
     color: #434455;
 }
 
+.adress {
+    font-style: normal;
+}
+
 /*------------Main Screen--------------*/
 .main {
     background: #2e2f42;
